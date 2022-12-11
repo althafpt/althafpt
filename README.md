@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/althukulthu" target="blank"><img src="https://img.shields.io/twitter/follow/althukulthu?logo=twitter&style=for-the-badge" alt="althukulthu" /></a> </p>
 
-- "­ Iâ€™m currently working on **A machine learning based ambience measument system**
+- "­ Iam currently working on **A machine learning based ambience measument system**
 
-- ± Iâ€™m currently learning **Computer vision,css,cloud,kotlin**
+-  Iam currently learning **Computer vision,css,cloud,kotlin**
 
 - “« How to reach me **rskk2004@gmail.com**
 

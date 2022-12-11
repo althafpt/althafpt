@@ -1,13 +1,13 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Althaf</h1>
+<h1 align="center">Hi , I'm Althaf</h1>
 <h3 align="center">A passionate developer and a CS Undergrad from Ernakulam</h3>
 
 <p align="left"> <a href="https://twitter.com/althukulthu" target="blank"><img src="https://img.shields.io/twitter/follow/althukulthu?logo=twitter&style=for-the-badge" alt="althukulthu" /></a> </p>
 
-- "­ Iam currently working on **A machine learning based ambience measument system**
+- Iam currently working on **A machine learning based ambience measument system**
 
 -  Iam currently learning **Computer vision,css,cloud,kotlin**
 
-- “« How to reach me **rskk2004@gmail.com**
+-  How to reach me **rskk2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
